@@ -9,6 +9,13 @@
 - [SOP](https://norazaran.github.io/SOP/)
 - [GitHub](https://github.com/norazaran)
 ---------------------
+> ## گروه ها
+
+6. G-SPM-06
+    1. [_SPM-08_فرزانه خاشعي ورنامخواستي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/08_%D9%81%D8%B1%D8%B2%D8%A7%D9%86%D9%87%20%D8%AE%D8%A7%D8%B4%D8%B9%D9%8A%20%D9%88%D8%B1%D9%86%D8%A7%D9%85%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D9%8A)    
+    1. [_SPM-18_مرتضي قرباني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/18_%D9%85%D8%B1%D8%AA%D8%B6%D9%8A%20%D9%82%D8%B1%D8%A8%D8%A7%D9%86%D9%8A)    
+    1. [_SPM-26_محمدحسين نوراذران](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/26_%D9%85%D8%AD%D9%85%D8%AF%D8%AD%D8%B3%D9%8A%D9%86%20%D9%86%D9%88%D8%B1%D8%A7%D8%B0%D8%B1%D8%A7%D9%86)
+    ------------------
 ## روز و ساعت ارائه دروس
 <div dir="ltr">
 <table style="width:100%">
