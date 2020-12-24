@@ -16,6 +16,9 @@
     1. [_SPM-18_مرتضي قرباني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/18_%D9%85%D8%B1%D8%AA%D8%B6%D9%8A%20%D9%82%D8%B1%D8%A8%D8%A7%D9%86%D9%8A)    
     1. [_SPM-26_محمدحسين نوراذران](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/26_%D9%85%D8%AD%D9%85%D8%AF%D8%AD%D8%B3%D9%8A%D9%86%20%D9%86%D9%88%D8%B1%D8%A7%D8%B0%D8%B1%D8%A7%D9%86)
     ------------------
+   # نام درس 
+    [1115272_01	مديريت پروژه هاي نرم افزاري	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement)
+
 ## روز و ساعت ارائه دروس
 <div dir="ltr">
 <table style="width:100%">
