@@ -64,7 +64,7 @@
   </tr>
    <tr>
     <th ></th>
-    <th ></th>
+    <th >پردازش موازى</th>
     <th></th>
     <th></th>
      <th ></th>
