@@ -10,6 +10,11 @@
 - [js](https://github.com/norazaran/PNU_3991_AR/blob/main/Certificates/cert-1024-20267852.pdf)
 - [GitHub](https://github.com/norazaran)
 ---------------------
+> ## ارزیابی ها
+-[ارزیابی رزومه و انگیزه نامه](https://github.com/norazaran/PNU_3991_AR/blob/main/_General/MHN_CV_CheckList_AR_3991.pdf)
+
+
+
 > ## گروه ها
 
 6. G-SPM-06
