@@ -12,6 +12,7 @@
 ---------------------
 > ## ارزیابی ها
 -[ارزیابی رزومه و انگیزه نامه](https://github.com/norazaran/PNU_3991_AR/blob/main/_General/MHN_CV_CheckList_AR_3991.pdf)
+
 -[خلاصه ارزیابی بخش عمومی](https://github.com/norazaran/PNU_3991_AR/blob/main/_General/MHN_GeneralSection_CheckList_AR_3991.pdf)
 
 
