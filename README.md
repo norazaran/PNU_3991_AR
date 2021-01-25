@@ -15,6 +15,8 @@
 
 -[خلاصه ارزیابی بخش عمومی](https://github.com/norazaran/PNU_3991_AR/blob/main/_General/MHN_SoftwareProjectManagement_CheckList_AR_3991(1).pdf)
 
+-[خلاصه ارزیابی اختصاصی](https://github.com/norazaran/PNU_3991_AR/blob/main/_General/MHN_GeneralSection_CheckList_AR_3991.pdf)
+
 
 > ## گروه ها
 
